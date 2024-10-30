@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1703409015 source:d:\telkom university\semester 3\struktur data\kodingan codeblock\tubes\internship aselole\internship\main.cpp
+	<iostream>
+	"Parent.h"
+
+1703596311 source:d:\telkom university\semester 3\struktur data\kodingan codeblock\tubes\internship aselole\internship\parent.cpp
+	"Parent.h"
+
+1703594470 source:d:\telkom university\semester 3\struktur data\kodingan codeblock\tubes\internship aselole\internship\child.cpp
+	"Child.h"
+
+1703399889 d:\telkom university\semester 3\struktur data\kodingan codeblock\tubes\internship aselole\internship\child.h
+	<iostream>
+
+1703400890 d:\telkom university\semester 3\struktur data\kodingan codeblock\tubes\internship aselole\internship\parent.h
+	<iostream>
+	"Child.h"
+
+1703594470 source:c:\users\putua\downloads\internship aselole main belum ada\internship aselole\internship\child.cpp
+	"Child.h"
+
+1703399889 c:\users\putua\downloads\internship aselole main belum ada\internship aselole\internship\child.h
+	<iostream>
+
+1703596311 source:c:\users\putua\downloads\internship aselole main belum ada\internship aselole\internship\parent.cpp
+	"Parent.h"
+
+1703400890 c:\users\putua\downloads\internship aselole main belum ada\internship aselole\internship\parent.h
+	<iostream>
+	"Child.h"
+
+1703770757 source:c:\users\putua\downloads\internship aselole main belum ada\internship aselole\internship\main.cpp
+	<iostream>
+	"Parent.h"
+
+1704454843 source:d:\telkom university\semester 3\struktur data\kodingan codeblock\tubes\file dari juna\intership main\internship main beres belum koreksi\internship aselole\internship\child.cpp
+	"Child.h"
+
+1704092510 d:\telkom university\semester 3\struktur data\kodingan codeblock\tubes\file dari juna\intership main\internship main beres belum koreksi\internship aselole\internship\child.h
+	<iostream>
+
+1704464434 source:d:\telkom university\semester 3\struktur data\kodingan codeblock\tubes\file dari juna\intership main\internship main beres belum koreksi\internship aselole\internship\main.cpp
+	<iostream>
+	"Parent.h"
+
+1703862861 d:\telkom university\semester 3\struktur data\kodingan codeblock\tubes\file dari juna\intership main\internship main beres belum koreksi\internship aselole\internship\parent.h
+	<iostream>
+	"Child.h"
+
+1704465105 source:d:\telkom university\semester 3\struktur data\kodingan codeblock\tubes\file dari juna\intership main\internship main beres belum koreksi\internship aselole\internship\parent.cpp
+	"Parent.h"
+
+1704454843 source:c:\users\putua\onedrive\documents\kuliah telkom university\semester 3\stuktur data\internship final\internship\child.cpp
+	"Child.h"
+
+1704092510 c:\users\putua\onedrive\documents\kuliah telkom university\semester 3\stuktur data\internship final\internship\child.h
+	<iostream>
+
+1704465105 source:c:\users\putua\onedrive\documents\kuliah telkom university\semester 3\stuktur data\internship final\internship\parent.cpp
+	"Parent.h"
+
+1703862861 c:\users\putua\onedrive\documents\kuliah telkom university\semester 3\stuktur data\internship final\internship\parent.h
+	<iostream>
+	"Child.h"
+
